@@ -28,13 +28,13 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>celements-shared-tests-deprecated</artifactId>
-  <version>6.1</version>
+  <version>6.2-SNAPSHOT</version>
   <description>Celements Shared Tests Deprecated Classes</description>
   <scm>
     <connection>scm:git:git@github.com:celements/celements-shared-tests.git</connection>
     <developerConnection>scm:git:git@github.com:celements/celements-shared-tests.git</developerConnection>
     <url>https://github.com/celements/celements-shared-tests/celements-common-test-deprecated</url>
-    <tag>celements-shared-tests-deprecated-6.1</tag>
+    <tag>HEAD</tag>
   </scm>
   <dependencies>
 
